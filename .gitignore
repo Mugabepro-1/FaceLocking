@@ -1,0 +1,4 @@
+data
+.venv
+.idea
+src/__pycache__
