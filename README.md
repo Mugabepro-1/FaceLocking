@@ -9,14 +9,6 @@ Each stage of the pipeline is implemented as an independent module so that detec
 
 This project extends the original ArcFace ONNX recognition pipeline by introducing identity persistence (face locking), stable tracking, and action history logging.
 
-**Designed for:**
-- Educational and academic assignments
-- Real-world experimentation on CPU-only machines
-- Modular system design and debugging
-- Explainable AI pipelines
-
----
-
 ## Key Features
 
 - Multi-face detection using Haar Cascade
